@@ -1,6 +1,8 @@
 Revision history for Perl extension String::Diff
 
 {{$NEXT}}
+
+0.08  2024-11-25 15:16:09 CET
         - fixed two tests that had been broken with YAML >= 1.21 (GH#7) (Kenichi Ishigaki)
         - Add Test::Base to cpanfile (GH#5) (Jose Luis Martinez)
         - Add develop dependencies to cpanfile (Jose Luis Martinez)
