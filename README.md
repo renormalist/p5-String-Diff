@@ -129,7 +129,7 @@ Kazuhiro Osawa &lt;yappo {@} shibuya {dot} pl>
 
 # SEE ALSO
 
-[Algorithm::Diff](https://metacpan.org/pod/Algorithm::Diff)
+[Algorithm::Diff](https://metacpan.org/pod/Algorithm%3A%3ADiff)
 
 # LICENSE
 
