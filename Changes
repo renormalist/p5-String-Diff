@@ -1,9 +1,7 @@
 Revision history for Perl extension String::Diff
 
 {{$NEXT}}
-
-0.09      2024-11-30
-        - distro cleanup (replaced author toolchain), same changelog as in v0.08, i.e.:
+        - yet another distro fixup, same changelog as in v0.08, i.e.:
         - fixed two tests that had been broken with YAML >= 1.21 (GH#7) (Kenichi Ishigaki)
         - Add Test::Base to cpanfile (GH#5) (Jose Luis Martinez)
         - Add develop dependencies to cpanfile (Jose Luis Martinez)
@@ -11,6 +9,9 @@ Revision history for Perl extension String::Diff
         - Kudos to Jose Luis Martinez for collecting all the issues
           from different sources into one concise branch ready for a
           new CPAN release
+
+0.09      2024-11-30
+        - distro cleanup (replaced author toolchain), same changelog as in v0.08
 
 0.08  2024-11-25 15:16:09 CET
         - fixed two tests that had been broken with YAML >= 1.21 (GH#7) (Kenichi Ishigaki)
