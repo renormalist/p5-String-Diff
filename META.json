@@ -57,7 +57,7 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/renormalist/p5-String-Diff/issues"
+         "web" : "https://rt.cpan.org/Dist/Display.html?Name=String-Diff"
       },
       "homepage" : "https://github.com/renormalist/p5-String-Diff",
       "repository" : {
