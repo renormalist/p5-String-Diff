@@ -1,6 +1,8 @@
 Revision history for Perl extension String::Diff
 
 {{$NEXT}}
+
+0.11      2025-01-22
         - distro fixup, again, same changelog as in v0.08:
         - drop hardcoded $VERSION (RT#158543)
         - fixed two tests that had been broken with YAML >= 1.21 (GH#7) (Kenichi Ishigaki)
